@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Silicon Power</string>
+    <string name="title_activity_main_menu_fragment">MainMenuFragment</string>
+</resources>
